@@ -1,7 +1,8 @@
 # Assignment_15.1
 1.​ Introduction
 This assignment will help you to consolidate the concepts learnt in the session.
-2.​ Problem Statement
+
+2.Problem Statement
 Problem Statement 1:
 You survey households in your area to find the average rent they are paying. Find the
 standard deviation from the following data:
